@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [HouseOfHer](https://github.com/MananAgrawal29/HouseOfHer)
 
-- 💬 Ask me about **CPP, Traqqy, Music, Books**
+- 💬 Ask me about **C++, Traqqy, Music, Books**
 
 - 📫 How to reach me **dev.manan29@gmail.com**
 
