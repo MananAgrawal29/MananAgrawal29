@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manan</h1>
+<h1 align="center">Hello World, I'm Manan</h1>
 <h3 align="center">I like computers a little more than I probably should.</h3>
 
 - 🔭 I’m currently working on [Traqqy](https://github.com/MananAgrawal29/Traqqy)
