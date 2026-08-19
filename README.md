@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hello World, I'm Manan</h1>
 <h3 align="center">I like computers a little more than I probably should.</h3>
 
@@ -67,3 +69,6 @@ Small experiments, weird ideas, and things I build just because I want to know h
 </td>
 </tr>
 </table>
+
+
+<img align="center" width="657" height="887" alt="ascii-art (1)" src="https://github.com/user-attachments/assets/68af0101-a1b5-431f-8fed-03aff6f904ff" />
