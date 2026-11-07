@@ -56,7 +56,7 @@ A cinematic survival-horror game built around one item, one chance, and one esca
 
 My ongoing C++ journey — experiments, problems, and things I'm building while learning computer science.
 
-**C++ · Git**
+**C++ · Git · C**
 
 </td>
 
